@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀  
 ▀▄ ▄▀          Dev  : المطور               ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -11,7 +11,7 @@
 do
 
 function run(msg, matches)
-  return '❣ Source 🛢 ASD_KARBALA 📁\n❣ Version 📋 v1.2\n❣ Location 💻\n \nhttps://github.com/SAJJAD94/ASD_KARBALA.git \n❣  #Dev 🕵🔧 : \n❣ #Dev : @SAJJADNOORI \n❣ #Dev_bot @S94_BOT \n❣ #Dev_Channel @S94IQ'
+  return '❣ Source 🛢 Dage Aliraqi 📁\n❣ Version 📋 v1.2\n❣ Location 💻\n \nhttps://github.com/dageq/Dage-Aliraqi.git \n❣  #Dev 🕵🔧 : \n❣ #Dev : @dageq'
 end
 return {
   patterns = {
