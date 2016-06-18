@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀  
 ▀▄ ▄▀          dev1  : dev                 ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -17,8 +17,8 @@ Bot, who works on the supergroups🔸
 Bot to work on the super groups of up to 5 k Membe🔷
 
      ≪It has been making the bot by the developer≫
-                      『 @SAJJADNOORI 』
-            🔹#Dev #SAJJADNOORI🔹
+                      『 @dageq 』
+            🔹#Dev #Dage Aliraqi🔹
 ]]
 end
 
