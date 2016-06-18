@@ -1,10 +1,10 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
-▀▄ ▄▀          help2  : مساعدة2            ▀▄ ▄▀ 
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀   
+▀▄ ▄▀          help2  : 2مساعدة           ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
 do
@@ -12,15 +12,14 @@ do
 function run(msg, matches)
 local reply_id = msg['id']
 local S = [[ 
-قبل لتشوف الاوامر تابع قناة البوت @S94IQ ❤️💋
 
 ✔️تعمل جميع الاوامر بدون وضع / او !
 ا🔸➖🔹➖🔸➖🔹➖🔸
  ❣ صوت : الكلمة المراد نطقها
-        صوت  SAJJAD [يدعم الانلكش فقط]
+        صوت  Dage [يدعم الانلكش فقط]
 
  ❣ صوره : الكلمه المراد تحويلها صوره
-        صوره  SAJJAD [يدعم الانلكش فقط]
+        صوره  Dage [يدعم الانلكش فقط]
  
  ❣ الدعم : الكلمة المراد ارسالهه لمجموعة دعم البوت
         الدعم هلو 
@@ -38,9 +37,7 @@ local S = [[
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺للأستفسار:- راسل المطور :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @dageq
  ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
