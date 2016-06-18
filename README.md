@@ -25,7 +25,7 @@ git clone https://github.com/dageq/Dage-Aliraqi.git
 *****************************************************
 ورهأ خلي 👇🏿 And vinegary
 **************************
-cd ASD_KARBALA
+cd Dage-Aliraqi
 **************************
 ورهأَ خلي👇🏿 And vinegary
 **************************
