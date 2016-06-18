@@ -12,7 +12,7 @@ local reply_id = msg['id']
 	if not is_momod(msg) then
 	local SAJJADNOORI = '❌ لَتلعَب بكَيفك 😜 المشرفيَنَ فقطَ  ✔️ 👍'
 	return
-	reply_msg(reply_id, SAJJADNOORI, ok_cb, false)
+	reply_msg(reply_id, Dage ALiraqi, ok_cb, false)
 	end
 	if #matches < 2 then
 		return "بعد هذا الأمر، من خلال تحديد كلمة المسافة أو العبارة التي تريد إدخال الكتابة الجميلة"
