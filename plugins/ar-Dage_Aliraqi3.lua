@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀   
 ▀▄ ▄▀          dev1  : dev                 ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -17,8 +17,8 @@ return [[
 يعمل البوت على مجموعات سوبر تصل الى5k عضو 🔷
 
      ≪تم صنع البوت بواسطة المطور≫
-                      『 @SAJJADNOORI 』
-            🔹#Dev #SAJJADNOORI🔹
+                      『 @dageq 』
+            🔹#Dev #Dage_Aliraqi🔹
 ]]
 end
 
