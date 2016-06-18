@@ -1,10 +1,10 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
-▀▄ ▄▀     KICK BOT  : طرد البوت            ▀▄ ▄▀ 
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀   
+▀▄ ▄▀         Kick bot  : طرد بوت          ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
 do
