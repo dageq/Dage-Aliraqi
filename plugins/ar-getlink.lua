@@ -1,10 +1,10 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
-▀▄ ▄▀     A SPECiAL LINK  : الرابط خاص     ▀▄ ▄▀ 
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀   
+▀▄ ▄▀      A special link  : الرابط خاص    ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
 do
@@ -855,4 +855,4 @@ patterns = {
 run = run
 }
 end
--- arabic : @SAJJADNOORI
+-- arabic : @dageq
