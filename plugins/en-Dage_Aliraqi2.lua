@@ -1,9 +1,9 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY SAJJAD NOORI                   ▀▄ ▄▀ 
-▀▄ ▄▀     BY SAJAD NOORI (@SAJJADNOORI)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY SAJJAD NOORI          ▀▄ ▄▀   
+▀▄ ▄▀    BY Dage Aliraqi                   ▀▄ ▄▀ 
+▀▄ ▄▀     BY Dage Aliraqi (@dageq)         ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY Dage Aliraqi          ▀▄ ▄▀  
 ▀▄ ▄▀          help2  : مساعدة2            ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -11,15 +11,13 @@ do
 
 function run(msg, matches)
   return [[ 
-It is shown by the channel orders @S94IQ ❤️💋
-
 ✔️All orders to operate without setting / او !
 🔸➖🔹➖🔸➖🔹➖🔸
  ❣ voice : Keyword pronunciation
-        voice  SAJJAD [English only]
+        voice  Dage [English only]
 
  ❣ photo : Keyword converted Photos
-        photo  SAJJAD [English only]
+        photo  Dage [English only]
  
  ❣ support : Call to be sent to a support group bots
         Hello Support 
@@ -37,9 +35,7 @@ It is shown by the channel orders @S94IQ ❤️💋
 ا🔸➖🔹➖🔸➖🔹➖🔸
 🃏🔺For inquiries:- Contact Developer :- ☢⚜ 
 ✋🏿👇🏿
-#Dev : @SAJJADNOORI
-#Dev_bot : @S94_BOT
-#Dev_Channel : @S94IQ
+#Dev : @dageq
  ]]
 
 end
