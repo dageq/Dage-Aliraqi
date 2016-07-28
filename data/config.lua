@@ -16,7 +16,6 @@ do local _ = {
     "leave_ban",
     "whitelist",
     "msg_checks",
-    "Hello",
     "isup",
     "ar-onservice",
     "en-onservice",
